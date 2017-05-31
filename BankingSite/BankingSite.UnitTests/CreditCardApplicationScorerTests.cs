@@ -37,7 +37,17 @@ namespace BankingSite.UnitTests
         [Test]
         public void ShouldAcceptCorrectAgedApplicantWithGoodCreditHistory()
         {
+            var fakeGateway = new Mock<ICreditCheckerGateway>();
+            fakeGateway.Setup(x => x.HasGoodCreditHistory(It.IsAny<string>())).Returns(true);
+            var sut = new CreditCardApplicationScorer(fakeGateway.Object);
 
+            var application = new CreditCardApplication
+            {
+                ApplicantAgeInYears = 30
+            };
+            var result = sut.ScoreApplication(application);
+
+            Assert.That(result, Is.True);
         }
     }
 }
