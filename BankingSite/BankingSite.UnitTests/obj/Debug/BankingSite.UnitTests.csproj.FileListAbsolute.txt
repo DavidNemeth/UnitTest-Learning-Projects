@@ -1,0 +1,14 @@
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\BankingSite.UnitTests.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\BankingSite.UnitTests.pdb
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\BankingSite.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\Moq.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\BankingSite.pdb
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\BankingSite.dll.config
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\Moq.xml
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\obj\Debug\BankingSite.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\obj\Debug\BankingSite.UnitTests.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite.UnitTests\obj\Debug\BankingSite.UnitTests.pdb

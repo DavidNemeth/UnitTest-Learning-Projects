@@ -1,0 +1,10 @@
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\bin\BankingSite.dll.config
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\bin\BankingSite.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\bin\BankingSite.pdb
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\bin\Castle.Core.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\bin\Moq.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\bin\Castle.Core.xml
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\bin\Moq.xml
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\obj\Debug\BankingSite.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\obj\Debug\BankingSite.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\obj\Debug\BankingSite.pdb
