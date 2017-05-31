@@ -21,7 +21,17 @@ namespace BankingSite.UnitTests
         [Test]
         public void ShouldAskGatewayForCreditCheck()
         {
+            var fakeGateway = new Mock<ICreditCheckerGateway>();
+            var sut = new CreditCardApplicationScorer(fakeGateway.Object);
 
+            var application = new CreditCardApplication
+            {
+                ApplicantAgeInYears = 30,
+                ApplicantName = "David"
+            };
+            sut.ScoreApplication(application);
+
+            fakeGateway.Verify(x => x.HasGoodCreditHistory("David"), Times.Once());
         }
 
         [Test]

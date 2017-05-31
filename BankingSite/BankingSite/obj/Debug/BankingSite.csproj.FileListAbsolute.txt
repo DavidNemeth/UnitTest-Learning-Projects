@@ -8,3 +8,5 @@ C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\Bank
 C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\obj\Debug\BankingSite.csprojResolveAssemblyReference.cache
 C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\obj\Debug\BankingSite.dll
 C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\obj\Debug\BankingSite.pdb
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\bin\nunit.framework.dll
+C:\Users\Dave\Documents\Repositories\UnitTest-Learning-Projects\BankingSite\BankingSite\bin\nunit.framework.xml
